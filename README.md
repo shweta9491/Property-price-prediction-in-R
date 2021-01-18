@@ -1,2 +1,2 @@
 # Property-price-prediction-in-R
-Predicting property price using Linear Regression in R
+This project aims to build a model to estimate the value of a given house using various statistical analysis tools
